@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Noticias de Tecnología</title>
+        <link>https://www.muycomputer.com/2025/02/07/winscript-un-configurador-de-windows-gratuito-y-de-codigo-abierto/</link>
+        <atom:link href="https://www.ejemplo.com/rss" rel="self" type="application/rss+xml"/>
+        <description>Las noticias más relevantes del mundo tecnológico.</description>
+        <language>es</language>
+        <pubDate>Sat, 01 Feb 2025 09:00:00 EST</pubDate>
+        <lastBuildDate>Sun, 02 Feb 2025 09:00:00 EST</lastBuildDate>
+ 
+        <item>
+            <title>Miniordenador</title>
+            <link>https://www.muycomputer.com/2025/02/06/no-es-una-mini-destiladora-es-un-pc-muy-pequeno-y-muy-potente/</link>
+            <description>El nuevo chip promete revolucionar las capacidades de procesamiento en inteligencia artificial.</description>
+            <pubDate>Sat, 01 Feb 2025 09:00:00 EST</pubDate>
+            <guid>https://www.muycomputer.com/2025/02/06/no-es-una-mini-destiladora-es-un-pc-muy-pequeno-y-muy-potente/</guid>
+            <category>Tecnología</category>
+        </item>
+ 
+        <item>
+            <title>Doom en adaptador</title>
+            <link>https://www.muycomputer.com/2025/02/06/logran-ejecutar-doom-en-un-adaptador-de-lightning-a-hdmi/</link>
+            <description>Un vistazo a las empresas emergentes que están transformando la industria tecnológica.</description>
+            <pubDate>Sat, 01 Feb 2025 09:00:00 EST</pubDate>
+            <guid>https://www.muycomputer.com/2025/02/06/logran-ejecutar-doom-en-un-adaptador-de-lightning-a-hdmi/</guid>
+            <category>Emprendimiento</category>
+        </item>
+
+        <item>
+            <title>Configurador de windows</title>
+            <link>https://www.muycomputer.com/2025/02/07/winscript-un-configurador-de-windows-gratuito-y-de-codigo-abierto/</link>
+            <description>Un instalador de windows.</description>
+            <pubDate>Sat, 01 Feb 2025 09:00:00 EST</pubDate>
+            <guid>https://www.muycomputer.com/2025/02/06/logran-ejecutar-doom-en-un-adaptador-de-lightning-a-hdmi/</guid>
+            <category>Emprendimiento</category>
+        </item>
+    </channel>
+</rss>
