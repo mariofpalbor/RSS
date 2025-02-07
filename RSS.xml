@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Noticias de Tecnología</title>
+        <link>https://mariofpalbor.github.io/RSS/noticias_tecnologia.xml</link>
+        <atom:link href="https://mariofpalbor.github.io/RSS/noticias_tecnologia.xml" rel="self" type="application/rss+xml"/>
+        <description>Las noticias más relevantes del mundo tecnológico.</description>
+        <language>es</language>
+        <pubDate>Sat, 01 Feb 2025 09:00:00 +0000</pubDate>
+        <lastBuildDate>Sun, 02 Feb 2025 09:00:00 +0000</lastBuildDate>
+
+        <item>
+            <title>Miniordenador</title>
+            <link>https://www.muycomputer.com/2025/02/06/no-es-una-mini-destiladora-es-un-pc-muy-pequeno-y-muy-potente/</link>
+            <description>El nuevo chip promete mejorar las capacidades de procesamiento en inteligencia artificial.</description>
+            <pubDate>Sat, 01 Feb 2025 09:00:00 +0000</pubDate>
+            <guid>https://www.muycomputer.com/2025/02/06/no-es-una-mini-destiladora</guid>
+            <category>Tecnología</category>
+        </item>
+
+        <item>
+            <title>Doom en adaptador</title>
+            <link>https://www.muycomputer.com/2025/02/06/logran-ejecutar-doom-en-un-adaptador-de-lightning-a-hdmi/</link>
+            <description>Un vistazo a las empresas emergentes que están transformando la industria tecnológica.</description>
+            <pubDate>Sat, 01 Feb 2025 09:00:00 +0000</pubDate>
+            <guid>https://www.muycomputer.com/2025/02/06/doom-adaptador-lightning</guid>
+            <category>Emprendimiento</category>
+        </item>
+
+        <item>
+            <title>Configurador de Windows</title>
+            <link>https://www.muycomputer.com/2025/02/07/winscript-un-configurador-de-windows-gratuito-y-de-codigo-abierto/</link>
+            <description>Un instalador de Windows.</description>
+            <pubDate>Sat, 01 Feb 2025 09:00:00 +0000</pubDate>
+            <guid>https://www.muycomputer.com/2025/02/07/configurador-windows</guid>
+            <category>Software</category>
+        </item>
+
+    </channel>
+</rss>
